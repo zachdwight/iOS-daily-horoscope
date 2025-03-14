@@ -5,8 +5,8 @@ Simple iOS app to work as a template for displaying information from as source b
 
 On Load >> <br>
 
-<img src="https://github.com/user-attachments/assets/95cdbf73-b9ab-4bf0-b043-a753e8ec77a0" width="150">
+<img src="https://github.com/user-attachments/assets/95cdbf73-b9ab-4bf0-b043-a753e8ec77a0" width="300">
 
 On Selection >> <br>
 
-<img src="https://github.com/user-attachments/assets/446ce530-0816-43ba-95dc-6ae1a7dc3eaa" width="150" >
+<img src="https://github.com/user-attachments/assets/446ce530-0816-43ba-95dc-6ae1a7dc3eaa" width="300" >
