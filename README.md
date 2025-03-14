@@ -1,5 +1,5 @@
 # iOS-daily-horoscope
-Simple iOS app to work as a template for displaying information from as source based on selection.  The source data (horoscopes in this case) are hardcoded but replace with an API and should work nicely with inputs altered for say stock updates based on ticker symbol (text field as opposed to Picker).
+Simple iOS app to work as a template for displaying information from a source based on selection.  The source data (horoscopes in this case) are hardcoded but replace with an API and should work nicely with inputs altered for say stock updates based on ticker symbol (text field as opposed to Picker).
 
 ## Preview
 
